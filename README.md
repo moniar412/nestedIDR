@@ -25,9 +25,9 @@ The other functions are needed to run a simulation study.
 
 To try the code, please run the following steps.
 
-1. Generate the data using the function crt_simusetting.R
+1. Generate the data using the function crt_simusetting.R under the folder simulation;
 
-2. Run the script entitled runsimu.R
+2. Run the script entitled runsimu.R under the folder simulation.
 
 
 **Questions, comments and remarks about the code should be addressed to: Monia Ranalli, email: monia.ranalli at uniroma1.it**
