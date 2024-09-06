@@ -1,7 +1,4 @@
-
-rm(list=ls(all=TRUE));
-
-source("funs_general.R")
+source("funs/funs_general.R")
 source("funs/funs_nested_idr.R")
 
 ## setting

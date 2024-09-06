@@ -1,7 +1,3 @@
-
-setwd("d:/R_work/IDR_multilab//");
-rm(list=ls(all=TRUE));
-
 library(mixtools)
 
 source("funs/funs_general.R")
