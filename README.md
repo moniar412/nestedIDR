@@ -16,18 +16,18 @@ library(idr)
 
 The main functions needed to fit the hierarchical idr are collected into 
 
-source("funs/funs_general.R")
+source("funs_general.R")
 
-source("funs/funs_nested_idr.R")
+source("funs_nested_idr.R")
 
 
 The other functions are needed to run a simulation study.
 
 To try the code, please run the following steps.
 
-1. Generate the data using the function crt_simusetting.R under the folder simulation;
+1. Generate the data using the function crt_simusetting.R;
 
-2. Run the script entitled runsimu.R under the folder simulation.
+2. Run the script entitled runsimu.R.
 
 
 **Questions, comments and remarks about the code should be addressed to: Monia Ranalli, email: monia.ranalli at uniroma1.it**
