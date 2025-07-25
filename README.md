@@ -29,5 +29,8 @@ To try the code, please run the following steps.
 
 2. Run the script entitled runsimu.R.
 
+The folder named extensions includes the main functions for fitting the hierarchical IDR model when there are different replicates across labs and varying correlation coefficients.
+The folder named example_run_chipseq includes the main functions for fitting real data using the hierarchical IDR model.
+
 
 **Questions, comments and remarks about the code should be addressed to: Monia Ranalli, email: monia.ranalli at uniroma1.it**
